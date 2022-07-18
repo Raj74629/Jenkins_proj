@@ -1,0 +1,34 @@
+D:\wipro .net\phase3\WebApplication\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\wipro .net\phase3\WebApplication\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\wipro .net\phase3\WebApplication\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\wipro .net\phase3\WebApplication\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\wipro .net\phase3\WebApplication\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\wipro .net\phase3\WebApplication\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\wipro .net\phase3\WebApplication\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\wipro .net\phase3\WebApplication\UnitTestProject1\bin\Debug\WebApplication.dll
+D:\wipro .net\phase3\WebApplication\UnitTestProject1\bin\Debug\WebApplication.pdb
+D:\wipro .net\phase3\WebApplication\UnitTestProject1\bin\Debug\WebApplication.dll.config
+D:\wipro .net\phase3\WebApplication\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\wipro .net\phase3\WebApplication\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\wipro .net\phase3\WebApplication\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+D:\wipro .net\phase3\WebApplication\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\wipro .net\phase3\WebApplication\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\wipro .net\phase3\WebApplication\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\wipro .net\phase3\WebApplication\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\wipro .net\Dummy Web App\WebApplication\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\wipro .net\Dummy Web App\WebApplication\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\wipro .net\Dummy Web App\WebApplication\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\wipro .net\Dummy Web App\WebApplication\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\wipro .net\Dummy Web App\WebApplication\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\wipro .net\Dummy Web App\WebApplication\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\wipro .net\Dummy Web App\WebApplication\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\wipro .net\Dummy Web App\WebApplication\UnitTestProject1\bin\Debug\WebApplication.dll
+D:\wipro .net\Dummy Web App\WebApplication\UnitTestProject1\bin\Debug\WebApplication.pdb
+D:\wipro .net\Dummy Web App\WebApplication\UnitTestProject1\bin\Debug\WebApplication.dll.config
+D:\wipro .net\Dummy Web App\WebApplication\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\wipro .net\Dummy Web App\WebApplication\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\wipro .net\Dummy Web App\WebApplication\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+D:\wipro .net\Dummy Web App\WebApplication\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\wipro .net\Dummy Web App\WebApplication\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\wipro .net\Dummy Web App\WebApplication\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\wipro .net\Dummy Web App\WebApplication\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

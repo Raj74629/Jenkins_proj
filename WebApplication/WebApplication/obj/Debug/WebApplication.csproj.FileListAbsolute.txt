@@ -1,0 +1,118 @@
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\WebApplication.dll.config
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\WebApplication.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\WebApplication.pdb
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\csc.exe
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\csc.exe.config
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\csc.rsp
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\csi.exe
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\csi.exe.config
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\csi.rsp
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.AppContext.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.Console.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.Globalization.Calendars.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.Net.Http.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.Net.Sockets.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.ValueTuple.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\vbc.exe
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\vbc.exe.config
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\vbc.rsp
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\wipro .net\phase3\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.AssemblyReference.cache
+D:\wipro .net\phase3\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CoreCompileInputs.cache
+D:\wipro .net\phase3\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CopyComplete
+D:\wipro .net\phase3\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+D:\wipro .net\phase3\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\WebApplication.dll.config
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\WebApplication.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\WebApplication.pdb
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\csc.exe
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\csc.exe.config
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\csc.rsp
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\csi.exe
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\csi.exe.config
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\csi.rsp
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.AppContext.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.Console.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.Globalization.Calendars.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.Net.Http.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.Net.Sockets.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.ValueTuple.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\vbc.exe
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\vbc.exe.config
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\vbc.rsp
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.AssemblyReference.cache
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CoreCompileInputs.cache
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CopyComplete
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+D:\wipro .net\Dummy Web App\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
